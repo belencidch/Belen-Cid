@@ -1,0 +1,144 @@
+body{
+font-family: 'Barlow Condensed', sans-serif;
+font-weight: lighter;
+
+}
+h1{
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight:lighter;
+}
+
+h5  {
+  font-size: 3rem;
+
+  text-shadow: text-shadow: 0.100em 0.16em 0.100em #dcdcdc;
+  padding-top: : 5rem;
+  margin-top: : 5rem;
+  font-weight: bold;
+}
+.otro{
+  font-size: 1.7rem;
+}
+hr{
+  background-color: #c3142b;
+  padding: 0;
+  margin: 0;
+}
+h6{
+  font-size: 2.1rem;
+  font-weight: 600;
+}
+.navegador{
+  background-color:#4d7db4;
+  color: #4d7db4;
+  padding: 0;
+  margin: 0;
+}
+.yo{
+  font-family: 'Lobster Two', cursive;
+  color: white;
+  color:#aeb6bf;
+  font-size: 2rem;
+  font-weight: normal;
+  padding-left: 3rem;
+}
+.yo2{
+  font-family: 'Lobster Two', cursive;
+  color: #ffffff;
+  font-size: 1,5rem;
+}
+.fondo{
+  text-align: center;
+  background-image: url('../img/belen.JPG');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 45rem;
+  padding-top: 32rem;
+  text-shadow: 0.125em 0.25em 0.125em #808080
+}
+.soy{
+  color: #D3D3D3;
+  margin-top: 0;
+  padding-top: 0;
+  text-align: inherit;
+  font-weight: 600;
+  font-size: 3rem;
+}
+.soy2{
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 900i;
+  color: #aeb6bf;
+  font-size: 4rem;
+  text-shadow: #DCDCDC;
+}
+
+.letrah4{
+  font-size: 3rem;
+  font-weight: bold;
+}
+.trabajos{
+  font-weight: 700;
+  font-size: 3rem;
+  padding-top: : 3rem;
+  color: white;
+}
+.card-title{
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+.card-text{
+  font-weight: 300;
+}
+.pie{
+  font-family: 'Lobster Two', cursive;
+}
+
+.grueso{
+  font-weight: 700;
+}
+.tamaño1{
+  height: 10rem;
+}
+.tamaño2{
+    height: 7rem;
+}
+.cartas{
+  background-color: #c3142b;
+  padding: 1rem;
+}
+
+.cambio{
+background-color: #696969;
+text-align: center;
+}
+.sobremi{
+  width: 70%;
+}
+.estudios{
+  background-color: #808080;
+  color: white;
+}
+
+.BOTON{
+  margin-bottom: 5rem;
+  background-color: #c3142b;
+  text-align: center;
+  border: none;
+  padding-left: 2rem;
+  padding-right: 2rem
+}
+.alto{
+  height: 9rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.practica{
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+.logo{
+  font-weight: 700;
+  font-size: 1.2rem;
+}
